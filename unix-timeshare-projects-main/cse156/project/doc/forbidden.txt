@@ -1,0 +1,6 @@
+# Forbidden Sites
+www.fakenews.com
+10.0.0.1
+www.utube.com
+www.bookface.com
+# End of list

@@ -1,0 +1,3 @@
+Welcome to CSE 150! 
+Embark on your journey into Linux with hands-on command line exercises.   
+You will use these skills for years to come!
