@@ -1,2 +1,0 @@
-Success! You've now become adept at Linux file operations using the command line. Keep up the great work! 
-You will use these skills for years to come!
